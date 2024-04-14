@@ -11,4 +11,4 @@
 
 ## Projects without next actions
 没有task的Project会显示在这里，project的显示数量是多少？如何删除，这个有必要显示吗？
-解决方法：1. 不显示这玩意儿。2. 将完成的任务移动到脚本不搜索的地方
+解决方法：增加#completed tag
